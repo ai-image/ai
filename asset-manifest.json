@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ai/static/css/main.57f953d6.chunk.css",
-    "main.js": "/ai/static/js/main.7e25849e.chunk.js",
-    "main.js.map": "/ai/static/js/main.7e25849e.chunk.js.map",
-    "runtime-main.js": "/ai/static/js/runtime-main.5c96df84.js",
-    "runtime-main.js.map": "/ai/static/js/runtime-main.5c96df84.js.map",
-    "static/css/2.2ce93ba3.chunk.css": "/ai/static/css/2.2ce93ba3.chunk.css",
-    "static/js/2.27f4a5f9.chunk.js": "/ai/static/js/2.27f4a5f9.chunk.js",
-    "static/js/2.27f4a5f9.chunk.js.map": "/ai/static/js/2.27f4a5f9.chunk.js.map",
-    "index.html": "/ai/index.html",
-    "precache-manifest.0a0f6d197513f3d065dff1e8c0b406c6.js": "/ai/precache-manifest.0a0f6d197513f3d065dff1e8c0b406c6.js",
-    "service-worker.js": "/ai/service-worker.js",
-    "static/css/2.2ce93ba3.chunk.css.map": "/ai/static/css/2.2ce93ba3.chunk.css.map",
-    "static/css/main.57f953d6.chunk.css.map": "/ai/static/css/main.57f953d6.chunk.css.map",
-    "static/js/2.27f4a5f9.chunk.js.LICENSE.txt": "/ai/static/js/2.27f4a5f9.chunk.js.LICENSE.txt",
-    "static/media/UploadIcon.svg": "/ai/static/media/UploadIcon.1cedb6e9.svg"
+    "main.css": "/ai-image.github.io/static/css/main.57f953d6.chunk.css",
+    "main.js": "/ai-image.github.io/static/js/main.5962255e.chunk.js",
+    "main.js.map": "/ai-image.github.io/static/js/main.5962255e.chunk.js.map",
+    "runtime-main.js": "/ai-image.github.io/static/js/runtime-main.8d3b8b3e.js",
+    "runtime-main.js.map": "/ai-image.github.io/static/js/runtime-main.8d3b8b3e.js.map",
+    "static/css/2.2ce93ba3.chunk.css": "/ai-image.github.io/static/css/2.2ce93ba3.chunk.css",
+    "static/js/2.27f4a5f9.chunk.js": "/ai-image.github.io/static/js/2.27f4a5f9.chunk.js",
+    "static/js/2.27f4a5f9.chunk.js.map": "/ai-image.github.io/static/js/2.27f4a5f9.chunk.js.map",
+    "index.html": "/ai-image.github.io/index.html",
+    "precache-manifest.d6e1a8b4d6b91576c2222cc721614ab0.js": "/ai-image.github.io/precache-manifest.d6e1a8b4d6b91576c2222cc721614ab0.js",
+    "service-worker.js": "/ai-image.github.io/service-worker.js",
+    "static/css/2.2ce93ba3.chunk.css.map": "/ai-image.github.io/static/css/2.2ce93ba3.chunk.css.map",
+    "static/css/main.57f953d6.chunk.css.map": "/ai-image.github.io/static/css/main.57f953d6.chunk.css.map",
+    "static/js/2.27f4a5f9.chunk.js.LICENSE.txt": "/ai-image.github.io/static/js/2.27f4a5f9.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/ai-image.github.io/static/media/UploadIcon.1cedb6e9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c96df84.js",
+    "static/js/runtime-main.8d3b8b3e.js",
     "static/css/2.2ce93ba3.chunk.css",
     "static/js/2.27f4a5f9.chunk.js",
     "static/css/main.57f953d6.chunk.css",
-    "static/js/main.7e25849e.chunk.js"
+    "static/js/main.5962255e.chunk.js"
   ]
 }
