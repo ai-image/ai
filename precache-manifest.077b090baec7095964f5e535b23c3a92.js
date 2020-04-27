@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e039f0a4a3edaf79cb1c9dedb66a2f4",
+    "revision": "1377b0b9d0579d8e60be56384a8c5dff",
     "url": "/ai-image.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ai-image.github.io/static/css/2.2ce93ba3.chunk.css"
   },
   {
-    "revision": "4a0012aa6d38ae450401",
+    "revision": "04f72191276dbc0d00ed",
     "url": "/ai-image.github.io/static/css/main.e567e731.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ai-image.github.io/static/js/2.645dd8a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a0012aa6d38ae450401",
-    "url": "/ai-image.github.io/static/js/main.310161dd.chunk.js"
+    "revision": "04f72191276dbc0d00ed",
+    "url": "/ai-image.github.io/static/js/main.2c3375af.chunk.js"
   },
   {
     "revision": "9b461928cd24b7d87c72",
