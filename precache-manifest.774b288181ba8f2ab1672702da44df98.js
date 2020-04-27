@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae3f3dd5e89315c2f041f94423ebf0ea",
+    "revision": "5025ae51b78f70fbba17712ab63e928f",
     "url": "/ai-image.github.io/index.html"
   },
   {
