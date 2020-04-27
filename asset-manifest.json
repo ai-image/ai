@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ai-image.github.io/static/css/main.e567e731.chunk.css",
-    "main.js": "/ai-image.github.io/static/js/main.f150143a.chunk.js",
-    "main.js.map": "/ai-image.github.io/static/js/main.f150143a.chunk.js.map",
+    "main.js": "/ai-image.github.io/static/js/main.4368bbef.chunk.js",
+    "main.js.map": "/ai-image.github.io/static/js/main.4368bbef.chunk.js.map",
     "runtime-main.js": "/ai-image.github.io/static/js/runtime-main.8d3b8b3e.js",
     "runtime-main.js.map": "/ai-image.github.io/static/js/runtime-main.8d3b8b3e.js.map",
     "static/css/2.2ce93ba3.chunk.css": "/ai-image.github.io/static/css/2.2ce93ba3.chunk.css",
     "static/js/2.5d64ea94.chunk.js": "/ai-image.github.io/static/js/2.5d64ea94.chunk.js",
     "static/js/2.5d64ea94.chunk.js.map": "/ai-image.github.io/static/js/2.5d64ea94.chunk.js.map",
     "index.html": "/ai-image.github.io/index.html",
-    "precache-manifest.1cb9b65feccc8d6038aa36c188bcb9e2.js": "/ai-image.github.io/precache-manifest.1cb9b65feccc8d6038aa36c188bcb9e2.js",
+    "precache-manifest.1e0752c86bc4efe9f7b963dcfa319595.js": "/ai-image.github.io/precache-manifest.1e0752c86bc4efe9f7b963dcfa319595.js",
     "service-worker.js": "/ai-image.github.io/service-worker.js",
     "static/css/2.2ce93ba3.chunk.css.map": "/ai-image.github.io/static/css/2.2ce93ba3.chunk.css.map",
     "static/css/main.e567e731.chunk.css.map": "/ai-image.github.io/static/css/main.e567e731.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2ce93ba3.chunk.css",
     "static/js/2.5d64ea94.chunk.js",
     "static/css/main.e567e731.chunk.css",
-    "static/js/main.f150143a.chunk.js"
+    "static/js/main.4368bbef.chunk.js"
   ]
 }
